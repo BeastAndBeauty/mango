@@ -1,14 +1,11 @@
-package com.paopao.mango.admin.config;
+package com.paopao.mango.backup.config;
 
-import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
- * Create by paopao on 2019-11-14 19:12
- * 每当客服端发送请求的时候，都会在头部附上跨域信息，从而支持跨域请求
+ * Create by paopao on 2019-11-20 15:41
  */
-@Configuration
 public class CorsConfig implements WebMvcConfigurer {
 
     @Override
