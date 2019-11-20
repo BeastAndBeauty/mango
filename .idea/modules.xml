@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/mango-backup/mango-backup.iml" filepath="$PROJECT_DIR$/mango-backup/mango-backup.iml" />
       <module fileurl="file://$PROJECT_DIR$/mango-common/mango-common.iml" filepath="$PROJECT_DIR$/mango-common/mango-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/mango-core/mango-core.iml" filepath="$PROJECT_DIR$/mango-core/mango-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-monitor/mango-monitor.iml" filepath="$PROJECT_DIR$/mango-monitor/mango-monitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/mango-pom/mango-pom.iml" filepath="$PROJECT_DIR$/mango-pom/mango-pom.iml" />
     </modules>
   </component>
