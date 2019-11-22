@@ -6,9 +6,13 @@
       <module fileurl="file://$PROJECT_DIR$/mango-admin/mango-admin.iml" filepath="$PROJECT_DIR$/mango-admin/mango-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/mango-backup/mango-backup.iml" filepath="$PROJECT_DIR$/mango-backup/mango-backup.iml" />
       <module fileurl="file://$PROJECT_DIR$/mango-common/mango-common.iml" filepath="$PROJECT_DIR$/mango-common/mango-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-consumer/mango-consumer.iml" filepath="$PROJECT_DIR$/mango-consumer/mango-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/mango-core/mango-core.iml" filepath="$PROJECT_DIR$/mango-core/mango-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-hystrix/mango-hystrix.iml" filepath="$PROJECT_DIR$/mango-hystrix/mango-hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/mango-monitor/mango-monitor.iml" filepath="$PROJECT_DIR$/mango-monitor/mango-monitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/mango-pom/mango-pom.iml" filepath="$PROJECT_DIR$/mango-pom/mango-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-producer2/mango-producer2.iml" filepath="$PROJECT_DIR$/mango-producer2/mango-producer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgngo-producer/mgngo-producer.iml" filepath="$PROJECT_DIR$/mgngo-producer/mgngo-producer.iml" />
     </modules>
   </component>
 </project>

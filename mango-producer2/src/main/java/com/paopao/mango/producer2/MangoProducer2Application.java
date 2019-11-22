@@ -1,20 +1,17 @@
-package com.paopao.mango.monitor;
+package com.paopao.mango.producer2;
 
-import de.codecentric.boot.admin.server.config.EnableAdminServer;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 /**
- * Create by paopao on 2019-11-20 20:07
+ * Create by paopao on 2019-11-22 17:18
  */
-@EnableAdminServer
 @EnableDiscoveryClient
 @SpringBootApplication
-public class MangoMonitorApplication {
+public class MangoProducer2Application {
 
     public static void main(String[] args) {
-
-        SpringApplication.run(MangoMonitorApplication.class, args);
+        SpringApplication.run(MangoProducer2Application.class, args);
     }
 }
