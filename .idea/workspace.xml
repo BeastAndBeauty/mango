@@ -2,66 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c8abfe-5b60-4bee-8b8a-7599ac0ef2b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_turbine_turbine_core_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_turbine_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_turbine_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-consumer/mango-consumer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-consumer/src/main/java/com/paopao/mango/comsumer/MangoConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-consumer/src/main/java/com/paopao/mango/comsumer/controller/CallHelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-consumer/src/main/java/com/paopao/mango/comsumer/controller/FeignHelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-consumer/src/main/java/com/paopao/mango/comsumer/controller/MangoProducerHystrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-consumer/src/main/java/com/paopao/mango/comsumer/controller/MangoProducerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-consumer/src/main/java/com/paopao/mango/comsumer/controller/RibbonHelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-consumer/src/main/java/com/paopao/mango/comsumer/controller/ServiceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-consumer/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-consumer/src/main/resources/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-hystrix/mango-hystrix.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-hystrix/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-hystrix/src/main/java/com/paopao/mango/hystrix/MangoHystrixApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-hystrix/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-hystrix/src/main/resources/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-producer2/mango-producer2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-producer2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-producer2/src/main/java/com/paopao/mango/producer2/MangoProducer2Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-producer2/src/main/java/com/paopao/mango/producer2/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-producer2/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mango-producer2/src/main/resources/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mgngo-producer/mgngo-producer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mgngo-producer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mgngo-producer/src/main/java/com/paopao/mango/producer/MangoProducerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mgngo-producer/src/main/java/com/paopao/mango/producer/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mgngo-producer/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mgngo-producer/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mango-zuul/mango-zuul.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mango-zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mango-zuul/src/main/java/com/paopao/mango/zuul/MangoZuulApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mango-zuul/src/main/java/com/paopao/mango/zuul/MyFallbackProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mango-zuul/src/main/java/com/paopao/mango/zuul/MyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mango-zuul/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mango-zuul/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mango-zuul/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mango-zuul/target/classes/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mango-zuul/target/classes/com/paopao/mango/zuul/MangoZuulApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mango-zuul/target/classes/com/paopao/mango/zuul/MyFallbackProvider$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mango-zuul/target/classes/com/paopao/mango/zuul/MyFallbackProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mango-zuul/target/classes/com/paopao/mango/zuul/MyFilter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mango-monitor/src/main/java/com/paopao/mango/monitor/MangoMonitorApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mango-monitor/src/main/java/com/paopao/mango/monitor/MangoMonitorApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mango-monitor/target/classes/com/paopao/mango/monitor/MangoMonitorApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/mango-monitor/target/classes/com/paopao/mango/monitor/MangoMonitorApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-hystrix/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mango-hystrix/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/mango-core/target/" />
     <ignored path="$PROJECT_DIR$/mango-admin/target/" />
@@ -74,6 +42,7 @@
     <ignored path="$PROJECT_DIR$/mango-producer2/target/" />
     <ignored path="$PROJECT_DIR$/mango-consumer/target/" />
     <ignored path="$PROJECT_DIR$/mango-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/mango-zuul/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,39 +67,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mango-hystrix/src/main/java/com/paopao/mango/hystrix/MangoHystrixApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
-              <folding>
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#587#588#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mango-hystrix/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mango-hystrix/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -146,12 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/paopao/mango/admin/controller/SysUserController.java" />
-        <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/paopao/mango/admin/vo/LoginBean.java" />
-        <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/paopao/mango/admin/controller/SysLoginController.java" />
-        <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/paopao/mango/admin/util/JwtTokenUtils.java" />
-        <option value="$PROJECT_DIR$/mango-backup/src/main/resources/banner.txt" />
-        <option value="$PROJECT_DIR$/mango-backup/src/main/java/com.paopao.mango.backup/CorsConfig.java" />
         <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/paopao/mango/admin/config/CorsConfig.java" />
         <option value="$PROJECT_DIR$/mango-backup/src/main/java/com.paopao.mango.backup/config/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/mango-backup/src/main/java/com.paopao.mango.backup/datasource/BackupDataSourceProperties.java" />
@@ -196,7 +127,13 @@
         <option value="$PROJECT_DIR$/mango-consumer/src/main/java/com/paopao/mango/comsumer/MangoConsumerApplication.java" />
         <option value="$PROJECT_DIR$/mango-hystrix/pom.xml" />
         <option value="$PROJECT_DIR$/mango-hystrix/src/main/java/com/paopao/mango/hystrix/MangoHystrixApplication.java" />
+        <option value="$PROJECT_DIR$/mango-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-zuul/src/main/java/com/paopao/mango/zuul/MangoZuulApplication.java" />
+        <option value="$PROJECT_DIR$/mango-zuul/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/mango-hystrix/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mango-zuul/src/main/resources/banner.txt" />
+        <option value="$PROJECT_DIR$/mango-zuul/src/main/java/com/paopao/mango/zuul/MyFallbackProvider.java" />
+        <option value="$PROJECT_DIR$/mango-zuul/src/main/java/com/paopao/mango/zuul/MyFilter.java" />
       </list>
     </option>
   </component>
@@ -216,8 +153,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="559" />
-    <option name="y" value="316" />
+    <option name="x" value="185" />
+    <option name="y" value="368" />
     <option name="width" value="1338" />
     <option name="height" value="1100" />
   </component>
@@ -232,152 +169,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mango-admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mango-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mango-consumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mango-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mango-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mango-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mango-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="comsumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mango-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="comsumer" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mango-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mango-hystrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mango-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mango-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mango-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mango-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hystrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mango-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mgngo-producer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mgngo-producer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mgngo-producer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mango" type="462c0819:PsiDirectoryNode" />
-              <item name="mgngo-producer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -390,7 +184,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Properties" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/mango/mango-platform/后端源码/12. 服务熔断（Hystrix、Turbine）" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/mango/mango-platform/后端源码/13. 服务网关（Zuul）" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -430,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MangoHystrixApplication">
+  <component name="RunManager" selected="Spring Boot.MangoZuulApplication">
     <configuration name="MangoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="mango-admin" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.paopao.mango.MangoApplication" />
@@ -447,19 +241,6 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.paopao.mango.comsumer.MangoConsumerApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MangoHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="mango-hystrix" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.paopao.mango.hystrix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paopao.mango.hystrix.MangoHystrixApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -503,9 +284,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MangoZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mango-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.paopao.mango.zuul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paopao.mango.zuul.MangoZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.MangoHystrixApplication" />
+        <item itemvalue="Spring Boot.MangoZuulApplication" />
         <item itemvalue="Spring Boot.MangoConsumerApplication" />
         <item itemvalue="Spring Boot.MangoProducer2Application" />
         <item itemvalue="Spring Boot.MangoProducerApplication" />
@@ -532,7 +326,8 @@
       <workItem from="1574084263517" duration="6273000" />
       <workItem from="1574127595247" duration="3582000" />
       <workItem from="1574228008551" duration="26745000" />
-      <workItem from="1574399149948" duration="16922000" />
+      <workItem from="1574399149948" duration="17208000" />
+      <workItem from="1574506798145" duration="3853000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1573986431164</created>
@@ -569,11 +364,18 @@
       <option name="project" value="LOCAL" />
       <updated>1574261872421</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="服务消费、服务熔断">
+      <created>1574428541900</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574428541901</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113629000" />
+    <option name="totallyTimeSpent" value="117768000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -585,9 +387,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27025586" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27292112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -597,7 +399,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290993" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.52819955" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22559653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -666,57 +468,10 @@
     <MESSAGE value="整合数据备份还原" />
     <MESSAGE value="整合系统服务监控" />
     <MESSAGE value="注册中心Consul" />
-    <option name="LAST_COMMIT_MESSAGE" value="注册中心Consul" />
+    <MESSAGE value="服务消费、服务熔断" />
+    <option name="LAST_COMMIT_MESSAGE" value="服务消费、服务熔断" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mango-common/src/main/java/com/paopao/mango/common/utils/FileUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mango-backup/src/main/java/com.paopao.mango.backup/constants/BackupConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="17" column="76" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mango-backup/src/main/java/com.paopao.mango.backup/controller/MySqlBackupController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mango-monitor/src/main/resources/banner.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mango-backup/src/main/java/com.paopao.mango.backup/service/MysqlBackupService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mango-backup/src/main/java/com.paopao.mango.backup/service/impl/MysqlBackupServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mango-backup/src/main/java/com.paopao.mango.backup/util/MySqlBackupRestoreUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1114">
@@ -836,20 +591,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mgngo-producer2/src/main/java/com/paopao/mango/producer/MangoProducerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mgngo-producer2/src/main/java/com/paopao/mango/producer/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mgngo-producer2/src/main/java/com/paopao/mango/producer/MangoProducerApplication.java" />
+    <entry file="file://$PROJECT_DIR$/mgngo-producer2/src/main/java/com/paopao/mango/producer/controller/HelloController.java" />
     <entry file="file://$PROJECT_DIR$/mango-producer2/src/main/resources/banner.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -883,39 +626,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mango-producer2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mango-producer2/src/main/java/com/paopao/mango/producer2/MangoProducer2Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mango-producer2/mango-producer2.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mango-producer2/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mango-admin/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mgngo-producer/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1048,20 +760,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mango-hystrix/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mango-hystrix/src/main/java/com/paopao/mango/hystrix/MangoHystrixApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+        <state relative-caret-position="94">
+          <caret line="4" column="72" lean-forward="true" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
           <folding>
             <element signature="e#513#514#0" expanded="true" />
             <element signature="e#587#588#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2848">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-producer2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="57" column="42" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-producer2/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="11" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-producer2/src/main/java/com/paopao/mango/producer2/MangoProducer2Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-zuul/src/main/java/com/paopao/mango/zuul/MangoZuulApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-hystrix/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-zuul/src/main/resources/banner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-zuul/src/main/java/com/paopao/mango/zuul/MyFallbackProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-zuul/src/main/java/com/paopao/mango/zuul/MyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1116,7 +919,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>mango-core</last-edited>
+          <last-edited>mango-zuul</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

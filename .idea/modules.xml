@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/mango-monitor/mango-monitor.iml" filepath="$PROJECT_DIR$/mango-monitor/mango-monitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/mango-pom/mango-pom.iml" filepath="$PROJECT_DIR$/mango-pom/mango-pom.iml" />
       <module fileurl="file://$PROJECT_DIR$/mango-producer2/mango-producer2.iml" filepath="$PROJECT_DIR$/mango-producer2/mango-producer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-zuul/mango-zuul.iml" filepath="$PROJECT_DIR$/mango-zuul/mango-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/mgngo-producer/mgngo-producer.iml" filepath="$PROJECT_DIR$/mgngo-producer/mgngo-producer.iml" />
     </modules>
   </component>

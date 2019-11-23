@@ -15,6 +15,7 @@
         <module name="mango-consumer" />
         <module name="mango-backup" />
         <module name="mango-monitor" />
+        <module name="mango-zuul" />
         <module name="mango-producer2" />
       </profile>
     </annotationProcessing>
@@ -28,6 +29,7 @@
       <module name="mango-monitor" target="1.8" />
       <module name="mango-pom" target="1.5" />
       <module name="mango-producer2" target="1.8" />
+      <module name="mango-zuul" target="1.8" />
       <module name="mgngo-producer" target="1.8" />
       <module name="mgngo-producer (1)" target="1.8" />
     </bytecodeTargetLevel>
@@ -41,6 +43,7 @@
       <module name="mango-hystrix" options="-parameters" />
       <module name="mango-monitor" options="-parameters" />
       <module name="mango-producer2" options="-parameters" />
+      <module name="mango-zuul" options="-parameters" />
       <module name="mgngo-producer" options="-parameters" />
       <module name="mgngo-producer (1)" options="-parameters" />
     </option>
